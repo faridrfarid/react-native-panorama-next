@@ -1,26 +1,53 @@
 {
   "name": "react-native-panorama-next",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "title": "React Native Panorama Next",
+  "version": "1.0.1",
+  "description": "A simple component for displaying panoramic images in your React Native app.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "homepage": "https://github.com/faridrfarid/react-native-panorama-next",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faridrfarid/react-native-panorama-next.git"
+    "url": "git+https://github.com/faridrfarid/react-native-panorama-next.git",
+    "baseUrl": "https://github.com/faridrfarid/react-native-panorama-next"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "test": "echo \"No tests specified\""
   },
   "keywords": [
+    "react-native",
+    "panorama",
+    "360 View",
+    "camera",
+    "ios",
+    "android",
     "github",
     "repos",
     "repositories",
     "sort",
     "stars"
   ],
-  "author": "Farid Rashidi <faridw777@gmail.com>",
+  "author": {
+    "name": "Farid Rashidi",
+    "email": "faridw777@gmail.com",
+    "url": "https://github.com/faridrfarid"
+  },
   "license": "MIT",
-  "dependencies": {
-    "axios": "^0.20.0"
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.13.1 || ^17",
+    "react-native": ">=0.60.0 <1.0.x"
+  },
+  "devDependencies": {
+    "@lightbase/eslint-config-lightbase": "^2.14.0",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.63.50",
+    "eslint": "^7.20.0",
+    "prettier": "^2.2.1",
+    "react": "^17.0.1",
+    "react-native": "^0.63.4",
+    "typescript": "^4.1.5"
   }
 }

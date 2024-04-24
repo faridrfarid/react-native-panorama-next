@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml:3:11-33
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/farid/Projects/meta-mobile-app/node_modules/@lightbase/react-native-panorama-view/android/src/main/AndroidManifest.xml

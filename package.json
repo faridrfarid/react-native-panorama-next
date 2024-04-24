@@ -1,0 +1,26 @@
+{
+  "name": "react-native-panorama-next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/faridrfarid/react-native-panorama-next",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridrfarid/react-native-panorama-next.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Farid Rashidi <faridw777@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}

@@ -2,7 +2,7 @@
 
 React Native Panorama viewer for Android and iOS.
 
-## Mostly automatic installation (RN >= 0.60)
+## Mostly automatic installation (RN >= 0.70)
 
 `$ npm install react-native-panorama-next --save` or
 `$ yarn add react-native-panorama-next`
